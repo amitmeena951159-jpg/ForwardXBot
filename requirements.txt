@@ -5,3 +5,4 @@ loguru==0.7.3
 qrcode==8.2
 pillow==11.3.0
 tzdata==2025.2
+aiohttp-socks
