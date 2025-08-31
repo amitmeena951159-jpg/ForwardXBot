@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# SQLite local DB
+*.db
+
+# Logs
+*.log
+
+# qrcodes folder
+qrcodes/

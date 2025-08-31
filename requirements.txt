@@ -1,0 +1,7 @@
+aiogram==3.22.0
+aiosqlite==0.21.0
+python-dotenv==1.0.1
+loguru==0.7.3
+qrcode==8.2
+pillow==11.3.0
+tzdata==2025.2
